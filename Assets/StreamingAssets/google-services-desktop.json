@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714080203346",
+    "firebase_url": "https://earth-defender-16703737-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "earth-defender-16703737",
+    "storage_bucket": "earth-defender-16703737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714080203346:android:ba72555ef97d0e0059258b",
+        "android_client_info": {
+          "package_name": "com.AIDatskoStudio.EarthDefender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714080203346-a3td3d66o8el0flieb1h9bcc6341q698.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCT6ycPb7T-Qr0y3a7vuLKj41QneRqzoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714080203346-a3td3d66o8el0flieb1h9bcc6341q698.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

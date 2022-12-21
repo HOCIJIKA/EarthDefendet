@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: 9fc0603c80b21dc48aeebc53175aa662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 668496688042418118
+    second: Earth-Defender-UX-x-UI-Parts_0
+  - first:
+      213: 2303984627918836669
+    second: Earth-Defender-UX-x-UI-Parts_1
+  - first:
+      213: 3109230960778643163
+    second: Earth-Defender-UX-x-UI-Parts_2
+  - first:
+      213: -4596698166348797414
+    second: Earth-Defender-UX-x-UI-Parts_3
+  - first:
+      213: 7754716700350296035
+    second: Earth-Defender-UX-x-UI-Parts_4
+  - first:
+      213: 1880834898205438898
+    second: Earth-Defender-UX-x-UI-Parts_5
+  - first:
+      213: 5653382266257622582
+    second: Earth-Defender-UX-x-UI-Parts_6
+  - first:
+      213: 6387613106624893283
+    second: Earth-Defender-UX-x-UI-Parts_7
+  - first:
+      213: 1059407689725701917
+    second: Earth-Defender-UX-x-UI-Parts_8
+  - first:
+      213: -3126163181524485435
+    second: Earth-Defender-UX-x-UI-Parts_9
+  - first:
+      213: 3054545345654843969
+    second: Earth-Defender-UX-x-UI-Parts_10
+  - first:
+      213: -2195593046436685776
+    second: Earth-Defender-UX-x-UI-Parts_11
+  - first:
+      213: -6194627789938065402
+    second: Earth-Defender-UX-x-UI-Parts_12
+  - first:
+      213: -248551943931679382
+    second: Earth-Defender-UX-x-UI-Parts_13
+  - first:
+      213: -6029539295061193845
+    second: Earth-Defender-UX-x-UI-Parts_14
+  - first:
+      213: 2568172921595935117
+    second: Earth-Defender-UX-x-UI-Parts_15
+  - first:
+      213: -3848404761936123862
+    second: Earth-Defender-UX-x-UI-Parts_16
+  - first:
+      213: 4855470390042863551
+    second: Earth-Defender-UX-x-UI-Parts_17
+  - first:
+      213: -8393578855017736452
+    second: Earth-Defender-UX-x-UI-Parts_18
+  - first:
+      213: 8977175526426755534
+    second: Earth-Defender-UX-x-UI-Parts_19
+  - first:
+      213: -4044049512299242082
+    second: Earth-Defender-UX-x-UI-Parts_20
+  - first:
+      213: 6500926383240366081
+    second: Earth-Defender-UX-x-UI-Parts_21
+  - first:
+      213: -5906088220822156658
+    second: Earth-Defender-UX-x-UI-Parts_22
+  - first:
+      213: -6537134682381992514
+    second: Earth-Defender-UX-x-UI-Parts_23
+  - first:
+      213: -8177195960147742069
+    second: Earth-Defender-UX-x-UI-Parts_24
+  - first:
+      213: -3111599592498367137
+    second: Earth-Defender-UX-x-UI-Parts_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_0
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1b48223af64900800000000000000
+      internalID: 668496688042418118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3317
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31013efc569ff10800000000000000
+      internalID: 2303984627918836669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3243
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68bddd515362b20800000000000000
+      internalID: 3109230960778643163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3260
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a271f3f5f3530c0800000000000000
+      internalID: -4596698166348797414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 3268
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef2b22b0c94e9b60800000000000000
+      internalID: 7754716700350296035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_5
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 3268
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b371b4ff511a1a10800000000000000
+      internalID: 1880834898205438898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_6
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 3298
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63647cfd739d47e40800000000000000
+      internalID: 5653382266257622582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_7
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 3314
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619107074c55a850800000000000000
+      internalID: 6387613106624893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_8
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3281
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fea6a4ea5c3be00800000000000000
+      internalID: 1059407689725701917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_9
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3284
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf3574623ad94d0800000000000000
+      internalID: -3126163181524485435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_10
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3284
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a6416eecce36a20800000000000000
+      internalID: 3054545345654843969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_11
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 3184
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d2dbc1cfa781e0800000000000000
+      internalID: -2195593046436685776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_12
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 3190
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008af878d2480aa0800000000000000
+      internalID: -6194627789938065402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_13
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 3192
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d28b9e257fc8cf0800000000000000
+      internalID: -248551943931679382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_14
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3197
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b4e9ef4f5c25ca0800000000000000
+      internalID: -6029539295061193845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_15
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 3216
+        width: 362
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b0895aabf3a320800000000000000
+      internalID: 2568172921595935117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_16
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 3070
+        width: 430
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2820ec3248b79ac0800000000000000
+      internalID: -3848404761936123862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3178
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7aee72898126340800000000000000
+      internalID: 4855470390042863551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3178
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61070a084048b80800000000000000
+      internalID: -8393578855017736452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_19
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 3097
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec14ff20495559c70800000000000000
+      internalID: 8977175526426755534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_20
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 3097
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ddf451566a0e7c0800000000000000
+      internalID: -4044049512299242082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2927
+        width: 1046
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c1082a1ee73a50800000000000000
+      internalID: 6500926383240366081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_22
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2842
+        width: 13
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac6c11e0c590ea0800000000000000
+      internalID: -5906088220822156658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_23
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2845
+        width: 460
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3cbf34ae6745a0800000000000000
+      internalID: -6537134682381992514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_24
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2102
+        width: 584
+        height: 868
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8272a05993c48e80800000000000000
+      internalID: -8177195960147742069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth-Defender-UX-x-UI-Parts_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1246
+        width: 1324
+        height: 1532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5572e518a061d4d0800000000000000
+      internalID: -3111599592498367137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Earth-Defender-UX-x-UI-Parts_10: 3054545345654843969
+      Earth-Defender-UX-x-UI-Parts_14: -6029539295061193845
+      Earth-Defender-UX-x-UI-Parts_6: 5653382266257622582
+      Earth-Defender-UX-x-UI-Parts_7: 6387613106624893283
+      Earth-Defender-UX-x-UI-Parts_21: 6500926383240366081
+      Earth-Defender-UX-x-UI-Parts_5: 1880834898205438898
+      Earth-Defender-UX-x-UI-Parts_23: -6537134682381992514
+      Earth-Defender-UX-x-UI-Parts_18: -8393578855017736452
+      Earth-Defender-UX-x-UI-Parts_11: -2195593046436685776
+      Earth-Defender-UX-x-UI-Parts_22: -5906088220822156658
+      Earth-Defender-UX-x-UI-Parts_24: -8177195960147742069
+      Earth-Defender-UX-x-UI-Parts_8: 1059407689725701917
+      Earth-Defender-UX-x-UI-Parts_2: 3109230960778643163
+      Earth-Defender-UX-x-UI-Parts_4: 7754716700350296035
+      Earth-Defender-UX-x-UI-Parts_16: -3848404761936123862
+      Earth-Defender-UX-x-UI-Parts_3: -4596698166348797414
+      Earth-Defender-UX-x-UI-Parts_12: -6194627789938065402
+      Earth-Defender-UX-x-UI-Parts_13: -248551943931679382
+      Earth-Defender-UX-x-UI-Parts_19: 8977175526426755534
+      Earth-Defender-UX-x-UI-Parts_31: -3111599592498367137
+      Earth-Defender-UX-x-UI-Parts_9: -3126163181524485435
+      Earth-Defender-UX-x-UI-Parts_15: 2568172921595935117
+      Earth-Defender-UX-x-UI-Parts_1: 2303984627918836669
+      Earth-Defender-UX-x-UI-Parts_17: 4855470390042863551
+      Earth-Defender-UX-x-UI-Parts_0: 668496688042418118
+      Earth-Defender-UX-x-UI-Parts_20: -4044049512299242082
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
